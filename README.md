@@ -1,7 +1,7 @@
 # KotlinBMICalculator
 
 ## Test apk
-#### http://bit.ly/2qSUjLw
+#### http://bit.ly/36nSlTt
 
 ## Download Apk
-#### http://bit.ly/349QAHB
+#### http://bit.ly/2PEPSyl
